@@ -6,4 +6,7 @@
 
 ## Usage
 
-
+* clone
+* open solution
+* show all files to see folder structure
+* build
